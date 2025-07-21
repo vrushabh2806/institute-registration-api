@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Institute Registration API
 
 ## Overview
@@ -88,3 +89,6 @@ Contributions are welcome! Please submit a pull request or open an issue for any
 
 ## License
 This project is licensed under the MIT License.
+=======
+# institute-registration-api
+>>>>>>> 2230b794bff1ac70f0dca7e294e02ec6b9e4a49e
